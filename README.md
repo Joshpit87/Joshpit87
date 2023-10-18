@@ -3,14 +3,19 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>PowerShell</b>
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - Coming Soon
 - <b>Python</b>
   - Coming Soon
 
+
 <h2>📜 Certifications</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- Coming Soon
+
+
+<h2>🎓 I’m currently working on ...</h2>
+
+- BS in I.T. from WGU - Target graduation date: Dec '25
 
 
 <h2> 🤳 Connect with me:</h2>
@@ -20,7 +25,7 @@
 [linkedin]: https://linkedin.com/in/joshua-boatwright-b9966388
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Joshpit87/joshpit87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
